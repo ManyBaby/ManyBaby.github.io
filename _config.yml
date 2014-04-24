@@ -6,10 +6,10 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		Lost Diggers
 tagline:	'blog'
-description:	'My personal blog.'
-url:		http://camporez.com
+description:	'Sur les traces des soldats oubliés'
+url:		http://manybaby.github.io
 commentsystem:	google
 disqus:		example
 
@@ -25,7 +25,7 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/SkyCitiTwit
     desc:	Follow me on twitter
 
   - icon:	github
@@ -33,22 +33,22 @@ social:
     desc:	Fork me on github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
+    url:	https://plus.google.com/u/0/109495452728880617879/posts
     desc:	Add me on google+
 
   - icon:	feed
     url:	http://camporez.com/atom.xml
     desc:	Subscribe to my feed
-    
+
 menu:
   - title:	Home
     url:	/
-    
+
   - title:	About
     url:	/about
-    
+
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
-  type_title:	Some rights reserved
+  author:	Emmanuel LOUISY-GABRIEL
+  url:		http://skycitizen.Fork
+  type_title:	All rights reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5

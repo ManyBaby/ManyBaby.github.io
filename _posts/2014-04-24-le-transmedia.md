@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Thinny 2: a Jekyll theme"
-quote: "The Infinite's Nymphet has a new look, a new codename, and a new platform!"
-image: false
+title: "Le transmédia"
+quote: "Le transmédia c’est quoi ? Définition"
+image: /media/2014-04-24-le-transmedia/cover.jpg
 video: false
 comments: true
 ---
@@ -16,6 +16,8 @@ Depuis toujours les œuvres se définissent par leur support. La peinture a la t
 ## Le contenu : un croisement hybride
 
 Dans le transmédia on considère que toute oeuvre quel que soit son support est avant tout une histoire à raconter. L’auteur part à la rencontre de son audience en créant un dispositif de diffusion multi-support. L’histoire s’adapte alors aux supports pour enrichir l’expérience et la compléter.
+
+{% include image.html url="/media/2014-04-24-le-transmedia/cover.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
 ## L’enjeu : la cohérence
 
@@ -31,13 +33,15 @@ source: rollingstone.com
 
 L’oeuvre transmédia n’est pas un produit, un livrable fini mais plutôt un processus une expérience participative à laquelle on invite la communauté. Ce qui compte ici c’est le niveau d’implication de la communauté, en terme transmédia on parle de l’engagement.
 
-A titre personnel je trouve ce virage passionnant Etant moi-même un touche-à-tout technophile incapable de me cantonner à un seul art, (je ne suis pas le seul dans ce cas) le transmédia offre à la génération des digital natives un moyen d’expression inédit motivé par la convergence des médias.
+*A titre personnel je trouve ce virage passionnant Etant moi-même un touche-à-tout technophile incapable de me cantonner à un seul art, (je ne suis pas le seul dans ce cas) le transmédia offre à la génération des digital natives un moyen d’expression inédit motivé par la convergence des médias.*
 
+>
 Et vous qu’en pensez-vous ? Tendance éphémère ou véritable révolution ?
+>
 
 Pour aller plus loin voici quelques exemples :
 
-http://www.transmedialab.org/the-blog/type-rider-une-aventure-tout-simplement/
+[Lien 01](http://www.transmedialab.org/the-blog/type-rider-une-aventure-tout-simplement/)
 
 http://www.transmedialab.org/the-blog/news/alt-minds-back-from-gamescom/
 
