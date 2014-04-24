@@ -1,4 +1,4 @@
-html, body, div, span, applet, object, iframe, caption, p {
+thtml, body, div, span, applet, object, iframe, caption, p {
 	margin: 0 0 0 0;
 	border: 0 0 0 0;
 	font: inherit;
@@ -383,7 +383,7 @@ pre code {
 	-moz-osx-font-smoothing: antialiased;
 	 -webkit-font-smoothing: antialiased;
 	         font-smoothing: antialiased;
-	
+
 	letter-spacing: 1.2pt;
 	font-size: 12px;
 	font-weight: 600;
